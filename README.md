@@ -14,4 +14,5 @@
  - Once server cert is configured, we can hit exposed endpoint, considering spring boot code is running on `localhost:8083`
  
  ### TO-DO:
- Extend this idea & create another spring boot application which will act as client instead of SOAPUI. 
+ Extend this idea & create another spring boot application which will act as client instead of SOAPUI.</br>
+This is now addressed: Client project name is `patilashish312/OneWayAuthClient` 
